@@ -12,8 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-<img width="1541" height="921" alt="Image" src="https://github.com/user-attachments/assets/034c22d6-1bf2-44ae-9c21-4f1c76f38fa3" />
-
 Overview
 This project implements a practical recommendation system pipeline for suggesting items to users based on historical interactions and content features. The repository covers classical collaborative filtering methods, content-based recommendations, and hybrid approaches. Emphasis is placed on reproducibility, evaluation metrics that reflect real-world utility, and simple deployment patterns for inference at scale.
 
@@ -52,3 +50,7 @@ Next Steps
 
 Contact
 If you want to contribute code, suggest improvements, or need help running experiments, please open an issue or reach out to the maintainer.
+
+#OUTPUT
+
+<img width="1541" height="921" alt="Image" src="https://github.com/user-attachments/assets/034c22d6-1bf2-44ae-9c21-4f1c76f38fa3" />
