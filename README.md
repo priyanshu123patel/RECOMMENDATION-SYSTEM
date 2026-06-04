@@ -53,4 +53,4 @@ If you want to contribute code, suggest improvements, or need help running exper
 
 #OUTPUT
 
-<img width="1541" height="921" alt="Image" src="https://github.com/user-attachments/assets/034c22d6-1bf2-44ae-9c21-4f1c76f38fa3" />
+<img width="1006" height="740" alt="Image" src="https://github.com/user-attachments/assets/d465868c-fd33-4830-b78a-cdb5a8ff70e6" />
